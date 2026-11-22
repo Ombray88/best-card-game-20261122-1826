@@ -1,8 +1,8 @@
 # Ember Duel
 
-[![Make.fun Competition](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826)
-[![Rank](https://make.fun/badge/best-card-game-20261122-1826/makefun/best-card-game/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826)
-[![Reward](https://make.fun/badge/best-card-game-20261122-1826/makefun/best-card-game/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826)
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/Ombray88/best-card-game-20261122-1826/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/Ombray88/best-card-game-20261122-1826/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 An original, turn-based card duel game where you battle an intelligent AI opponent in mystical elemental combat. Built fresh with robust offline architecture and deterministic shot staging.
 
